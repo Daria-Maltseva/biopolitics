@@ -1,0 +1,484 @@
+﻿PT B
+TI Society Must Be Defended: Lectures at the College de France, 1975-1976
+AU Foucault, M
+   Ewald, F
+AF Foucault, Michel
+   Ewald, François
+VL 1
+PY 2003
+PU Macmillan
+ER
+PT B
+TI Society must be defended: Lectures at the College de France, 1975--76
+AU Foucault, M
+AF Foucault, Michel
+PY 2003
+PU Picador
+ER
+PT B
+TI Defender la sociedad.[1976]
+AU Foucault, M
+AF Foucault, Michel
+PY 2006
+PU Buenos Aires Fondo de cultura economica de Argentina
+ER
+PT B
+TI Security, territory, population: lectures at the College de France, 1977-78
+AU Foucault, M
+AF Foucault, Michel
+PY 2007
+PU Springer
+ER
+PT B
+TI Security, Territory, Population
+AU Foucault, M
+AF Foucault, Michel
+VL 4
+PY 2007
+PU Basingstoke
+ER
+PT B
+TI Security, Territory, Population, trans. Graham Burchell
+AU Foucault, M
+AF Foucault, Michel
+PY 2007
+PU New York: Palgrave Macmillan
+ER
+PT B 
+TI The birth of biopolitics: lectures at the College de France, 1978-1979
+AU Foucault, M
+   Davidson, A
+   Burchell, G
+AF Foucault, Michel
+   Davidson, Arnold
+   Burchell, Graham
+PY 2008
+PU Springer
+ER
+PT B
+TI The birth of biopolitics: Lectures at the College de France, 1978--1979 (G. Burchell, Trans.)
+AU Foucault, M
+AF Foucault, Michel
+PU New York, NY: Picador
+PY 2008
+ER
+PT B
+TI Nacimiento de la biopol{\'\itica: curso del College de France (1978-1979)
+AU Foucault, M
+AF Foucault, Michel
+VL 283
+PY 2009
+PU Ediciones Akal
+ER
+PT B  
+TI Die Geburt der Biopolitik: Vorlesung am Collège de France 1978 1979
+AU Foucault, M
+AF Foucault, Michel
+PY 2006
+PU Suhrkamp
+ER
+PT B
+TI Discipline and punish: The birth of the prison
+AU Foucault, M
+AF Foucault, Michel
+PY 2012
+PU Vintage
+ER
+PT B
+TI Discipline and Punish, trans
+AU Foucault, M
+AF Foucault, Michel
+VL 191
+PY 1977
+PU Vintage
+ER
+PT B
+TI Discipline and punish (A. Sheridan, trans.)
+AU Foucault, M
+AF Foucault, Michel
+PY 1977
+PU New York: Pantheon
+ER
+PT B
+TI Discipline and Punish: the Birth of the Prison
+AU Michel, F
+   Alan, S
+AF Michel, Foucault
+   Alan, Sheridan
+PY 1977
+PU Trans. Sheridan A. Penguin Books. London
+ER
+PT B
+TI The archaeology of knowledge
+AU Foucault, M
+AF Foucault, Michel
+VL 24
+PY 1972
+PU New York: Pantheon
+ER
+PT B
+TI The archeology of knowledge
+AU Foucault, M
+AF Foucault, Michel
+PY 1972
+ER
+PT B
+TI The history of sexuality: An introduction. Vol. 1
+AU Foucault, M
+AF Foucault, Michel
+VL 208
+PY 1978
+PU Vintage
+ER
+PT B
+TI The history of sexuality: An introduction. Volume 1
+AU Foucault, M
+AF Foucault, Michel
+PY 1990
+PU Vintage
+ER
+PT B
+TI The History of Sexuality. Vol. 1, An Introduction. Translated by Robert Hurley
+AU Foucault, M
+AF Foucault, Michel
+PY 1978
+PU Pantheon
+ER
+PT B
+TI The history of sexuality, volume one
+AU Foucault, M
+AF Foucault, Michel
+PY 1978
+PU Penguin
+ER
+PT B
+TI Power/knowledge: Selected interviews and other writings, 1972-1977
+AU Foucault, M
+AF Foucault, Michel
+PY 1980
+PU Pantheon
+ER
+PT B
+TI The government of self and others: Lectures at the College de France 1982--1983
+AU Foucault, M
+   Davidson, A
+   Burchell, G
+AF Foucault, Michel
+   Davidson, Arnold
+   Burchell, Graham
+PY 2010
+PU Springer
+ER
+PT B
+TI Technologies of the self: A seminar with Michel Foucault
+AU Foucault, M
+AF Foucault, Michel
+PY 1988
+PU Univ of Massachusetts Press
+ER
+PT B
+TI Homo sacer: Sovereign power and bare life
+AU Agamben, G
+AF Agamben, Giorgio
+PY 1998
+PU Stanford University Press
+ER
+PT B
+TI Homo sacer Il potere sovrano e la nuda vita
+AU Agamben, G
+AF Agamben, Giorgio
+PY 1995
+ER
+PT B
+TI State of exception
+AU Agamben, G
+AF Agamben, Giorgio
+VL 2
+PY 2005
+PU University of Chicago Press
+ER
+PT B
+TI The open: Man and animal
+AU Agamben, G
+AF Agamben, Giorgio
+PY 2004
+PU Stanford university press
+ER
+PT B
+TI Means without end: Notes on politics
+AU Agamben, G
+AF Agamben, Giorgio
+VL 20
+PY 2000
+PU U of Minnesota Press
+ER
+PT B 
+TI Remnants of Auschwitz: the Witness and the Archive
+AU Agamben, G
+   Heller-Roazen, D
+AF Agamben, Giorgio
+   Heller-Roazen, Daniel
+PY 1999
+PU Zone book
+ER
+PT B
+TI Remnants of Auschwitz: The witness and the archive
+AU Agamben, G
+AF Agamben, Giorgio
+PY 2002
+ER
+PT B 
+TI Precarious life
+AU Butler, J
+AF Butler, Judith
+PY 2004
+PU London: Verso
+ER
+PT B
+TI Precarious life: The powers of mourning and violence
+AU Butler, J
+AF Butler, Judith
+PY 2006
+PU Verso
+ER
+PT B
+TI Powers of freedom: Reframing political thought
+AU Rose, N
+AF Rose, Nikolas
+PY 1999
+PU Cambridge university press
+ER
+PT B
+TI The politics of life itself: Biomedicine, power, and subjectivity in the twenty-first century
+AU Rose, N
+AF Rose, Nikolas
+PY 2007
+PU Princeton University Press
+ER
+PT B
+TI Empire. Harvard
+AU Hardt, M
+   Negri, A
+AF Hardt, Michael
+   Negri, Antonio
+PY 2000
+PU Harvard University Press
+ER
+PT B
+TI Commonwealth. Harvard
+AU Hardt, M
+   Negri, A
+AF Hardt, Michael
+   Negri, Antonio
+PY 2009
+PU Harvard University Press
+ER
+PT B 
+TI Multitude: war and democracy in the age of empire
+AU Negri, A
+   Hardt, M
+AF Negri, Antonio
+   Hardt, Michael
+PY 2004
+PU The Penguin Press
+ER
+PT B
+TI Bios: Biopolitics and philosophy
+AU Esposito, R
+AF Esposito, Roberto
+PY 2008
+PU U of Minnesota Press
+ER
+PT B
+TI Biopolitics: An advanced introduction
+AU Lemke, T
+   Casper, M
+   Moore, LJ
+AF Lemke, Thomas
+   Casper, Monica
+   Moore, Lisa Jean
+PY 2011
+PU NYU Press
+ER
+PT B 
+TI Life as surplus
+AU Cooper, M
+AF Cooper, Melinda
+PY 2008
+PU University of Washington Press
+ER
+PT B 
+TI The liberal way of war: Killing to make life live
+AU Dillon, M
+AU Reid, J
+AF Dillon, Michael
+AF Reid, Julian
+PY 2009
+PU Routledge
+ER
+PT B 
+TI Race and the education of desire: Foucault's history of sexuality and the colonial order of things
+AU Stoler, AL
+AF Stoler, Ann Laura
+PY 1995
+PU Duke University Press
+ER
+PT B
+TI Neoliberalism as exception: Mutations in citizenship and sovereignty
+AU Ong, A
+AF Ong, Aihwa
+PY 2006
+PU Duke University Press
+ER
+PT B
+TI Development, security and unending war: governing the world of peoples
+AU Duffield, M
+AF Duffield, Mark
+PY 2007
+PU Polity
+ER
+PT B
+TI When species meet
+AU Haraway, DJ
+AF Haraway, Donna Jeanne
+VL 224
+PY 2008
+PU U of Minnesota Press
+ER
+PT B
+TI Immunitas: the protection and negation of life
+AU Esposito R
+AF Esposito, Roberto
+PY 2011
+PU Polity
+ER
+PT B
+TI Seeing like a state: How certain schemes to improve the human condition have failed
+AU Scott, J
+AF Scott, James
+PY 1998
+PU Yale University Press
+ER
+PT B
+TI Simians, cyborgs, and women
+AU Haraway, D
+AF Haraway, Donna
+PY 1991
+PU New York: Routledge
+ER
+PT B
+TI What is an apparatus? and other essays
+AU Agamben, G
+AF Agamben, Giorgio
+PY 2009
+PU Stanford University Press
+ER
+PT B
+TI A Grammar of the Multitude
+AU Virno, P
+AF Virno, Paolo
+PY 2003
+PU Semiotext London
+ER
+PT B
+TI Disciplining Foucault: Feminism, power, and the body
+AU Sawicki, J
+AF Sawicki, Jana
+PY 1991
+PU Psychology Press
+ER
+PT B
+TI Governmentality: Power and Rule in Modern Society
+AU Dean, M
+AF Dean, Mitchell
+PY 1999
+PU Sage Publications Ltd
+ER
+PT B
+TI Governmentality: Power and rule in modern society
+AU Dean, M
+AF Dean, Mitchell
+PY 2010
+PU Sage publications
+ER
+PT B
+TI Mille plateaux: Capitalisme et schizophr'enie II
+AU Deleuze, G.
+   Guattari, F
+AF Deleuze, Gilles
+   Guattari, Felix
+PY 1980
+PU Minuit
+ER
+PT B
+TI Mille plateaux: Capitalisme et schizophrenie, 2
+AU Deleuze, G
+   Guattari, F
+AF Deleuze, Gillse
+   Guattari, Felix
+PY 2013
+PU Minuit
+ER
+PT B
+TI A Thousand Plateaus
+AU Deleuze, G
+   Guattari, F
+AF Deleuze, Gilles
+   Guattari, Felix
+PY 1987
+PU Continuum
+ER
+PT B
+TI A thousand plateaus
+AU Deleuze, G
+   Guattari, F
+AF Deleuze, Gilles
+   Guattari, Felix
+PY 1987
+PU University of Minnesota Press
+ER
+PT B
+TI The new imperialism
+AU Harvey, D
+AF Harvey, David
+PY 2003
+PU Oxford University Press
+ER
+PT B 
+TI Life exposed: biological citizens after Chernobyl
+AU Petryna, A
+AF Petryna, Adriana
+PY 2013
+PU Princeton University Press
+ER
+PT B
+TI Biological citizenship: science and the politics of health after Chernobyl
+AU Petryna, A
+AF Petryna, Adriana
+PY 2002
+PU Princeton, NJ: Princeton University Press
+ER
+PT B
+TI The human condition
+AU Arendt, H
+AF Arendt, Hannah
+PY 2013
+PU University of Chicago Press
+ER
+PT B
+TI Modest Witness@ Second Millennium. FemaleMan Meets OncoMouse: feminism and technoscience
+AU Haraway, DJ
+   Goodeve, T
+AF Haraway, Donna Jeanne 
+   Goodeve, Thyrza
+PY 2018
+PU routledge
+ER
+PT B
+TI We have never been modern
+AU Latour, B
+AF Latour, Bruno
+PY 2012
+PU Harvard university press
+ER 
+EF 
